@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ethereum-classic-etc-logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

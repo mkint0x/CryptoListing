@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "binance-coin-bnb-logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
